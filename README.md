@@ -1,4 +1,4 @@
-Taller 2 y 3: Creación de un formulario y base de datos en Java
+Taller 2 y 3: Creación de un formulario y base de datos en Java.
 
 Este repositorio contiene los archivos necesarios para completar el Taller 2 y Taller 3 de LENGUAJE AVANZADO EN JAVA.
 
